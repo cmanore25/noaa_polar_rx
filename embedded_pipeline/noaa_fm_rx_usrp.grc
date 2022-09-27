@@ -449,7 +449,7 @@
     </param>
     <param>
       <key>device_name</key>
-      <value>Computer</value>
+      <value></value>
     </param>
     <param>
       <key>_enabled</key>
@@ -555,7 +555,7 @@
     </param>
     <param>
       <key>file</key>
-      <value></value>
+      <value>/home/uas/apps/curtis_ws/src/noaa_polar_rx/embedded_pipeline/test_recording.wav</value>
     </param>
     <param>
       <key>_coordinate</key>
